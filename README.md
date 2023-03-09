@@ -1,0 +1,1 @@
+# Application for managing bank accounts with Go language. Object-oriented object-oriented example.
